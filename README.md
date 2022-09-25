@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A student studying software engineering in cs hse'25</h3>
+<h3 align="center">Studying software engineering in cs hse'25</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shove&label=Profile%20views&color=0e75b6&style=flat" alt="shove" /> </p>
 
 - 🌱 I’m currently learning **Swift, Java**
 
-- 👨‍💻 All of my projects are available at [https://shbov.ru](https://shbov.ru)
+- 👨‍💻 All of my projects will be available at [https://shbov.ru](https://shbov.ru)
 
 - 📫 How to reach me **a.shbov@yandex.ru**
 
