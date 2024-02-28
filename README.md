@@ -6,7 +6,7 @@
   <p align="left"> <img src="https://wakatime.com/badge/user/ea76aeb9-e98d-4b24-9eb2-29cea1ad8b72.svg" alt="Wakatike" /> </p>
 </div>
 
-- 💻 Currently working as a software engineer at [pnsh.ru](https://pnsh.ru)
+- 💻 Currently working as a frontend developer at [cloud.yandex.ru](https://cloud.yandex.ru)
 
 - 📫 How to reach me **a@shbov.ru**
 
