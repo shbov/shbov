@@ -1,14 +1,19 @@
 <h1 align="left">Hi, I'm Andrew 👋</h1>
+
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shove&label=Profile%20views&color=0e75b6&style=flat" alt="shove" /> 
+   <img src="https://wakatime.com/badge/user/ea76aeb9-e98d-4b24-9eb2-29cea1ad8b72.svg" alt="Wakatike" /> </p>
+</div>
+
 <h3 align="left">Studying software engineering in <a href="https://cs.hse.ru" target="_blank">cs hse'25</a></h3>
 
 <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shove&label=Profile%20views&color=0e75b6&style=flat" alt="shove" /> </p>
-  <p align="left"> <img src="https://wakatime.com/badge/user/ea76aeb9-e98d-4b24-9eb2-29cea1ad8b72.svg" alt="Wakatike" /> </p>
+  ☁ Currently working at <a href="https://yandex.cloud" target="_blank">Yandex Cloud</a> as Frontend Developer
 </div>
 
-- 💻 Currently working as a frontend developer at [cloud.yandex.ru](https://cloud.yandex.ru)
-
-- 📫 How to reach me **a@shbov.ru**
+<div>
+  📫 How to reach me <a href="mailto:a@shbov.ru" target="_blank">a@shbov.ru</a>
+</div> 
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
@@ -83,9 +88,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
-<img height="16" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shbov&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
-
-<!--<img src="https://raw.githubusercontent.com/shbov/shbov/output/snake.svg" alt="Snake animation" />-->
+<img src="https://raw.githubusercontent.com/shbov/shbov/output/snake.svg" alt="Snake animation" />
 
 
