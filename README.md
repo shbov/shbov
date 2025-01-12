@@ -5,15 +5,15 @@
    <img src="https://wakatime.com/badge/user/ea76aeb9-e98d-4b24-9eb2-29cea1ad8b72.svg" alt="Wakatike" /> </p>
 </div>
 
-<h3 align="left">Studying software engineering in <a href="https://cs.hse.ru" target="_blank">cs hse'25</a></h3>
+<h3 align="left">About me</h3>
 
-<div>
-  ☁ Currently working at <a href="https://yandex.cloud" target="_blank">Yandex Cloud</a>
+- <div>
+  🎓 Studying software engineering in <a href="https://cs.hse.ru" target="_blank">cs hse'25</a>
 </div>
 
-<div>
-  📫 How to reach me <a href="mailto:a@shbov.ru" target="_blank">a@shbov.ru</a>
-</div> 
+- <div>
+  📄 <a href="https://shbov.ru" target="_blank">My CV</a>
+</div>
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
