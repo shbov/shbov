@@ -13,13 +13,15 @@
 <h3 align="left">Connect with me</h3>
 <div align="left">
     <a href="https://instagram.com/shbovv" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/filled/instagram.svg" width="32" height="32" alt="instagram logo"  />
     </a>
+  <img width="12" />
     <a href="https://t.me/shbov" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/colored/telegram.svg" width="32" height="32" alt="telegram logo"  />
     </a>
-    <a href="mailto:a@shbov.ru" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img width="12" />
+    <a href="https://www.linkedin.com/in/shbov" target="_blank">
+        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/small/colored/linkedin.svg" width="32" height="32" alt="gmail logo"  />
     </a>
 </div>
 
