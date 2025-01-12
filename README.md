@@ -8,7 +8,7 @@
 <h3 align="left">Studying software engineering in <a href="https://cs.hse.ru" target="_blank">cs hse'25</a></h3>
 
 <div>
-  ☁ Currently working at <a href="https://yandex.cloud" target="_blank">Yandex Cloud</a> as Frontend Developer
+  ☁ Currently working at <a href="https://yandex.cloud" target="_blank">Yandex Cloud</a>
 </div>
 
 <div>
