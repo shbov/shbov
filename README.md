@@ -8,12 +8,7 @@
 <h3 align="left">About me</h3>
 
 - <div>
-  ☁️ Working at <a href="https://yandex.cloud" target="_blank">Yandex.Cloud</a> as Frontend Developer
-</div>
-
-
-- <div>
-  🎓 Studying software engineering in <a href="https://cs.hse.ru" target="_blank">cs hse'25</a>
+  🎓 Bachelor of Software Engineering in <a href="https://cs.hse.ru" target="_blank">cs hse'25</a>
 </div>
 
 - <div>
