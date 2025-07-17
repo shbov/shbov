@@ -8,7 +8,7 @@
 <h3 align="left">About me</h3>
 
 - <div>
-  💻 Currently working as a Frontend Developer at <a href="https://wibes.ru" target="_blank">Wibes</a>
+  💻 Currently working as a Frontend Developer at <a href="https://wibes.ru" target="_blank">Wibes</a>, ex. Yandex Cloud
 </div>
 
 - <div>
