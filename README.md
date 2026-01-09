@@ -15,10 +15,6 @@
   🎓 Bachelor of Software Engineering in <a href="https://cs.hse.ru" target="_blank">cs hse'25</a>
 </div>
 
-- <div>
-  📄 <a href="https://shbov.ru" target="_blank">My CV</a>
-</div>
-
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
